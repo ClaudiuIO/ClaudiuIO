@@ -11,7 +11,7 @@ I'm a **full-stack engineer** with **15+ years of experience**, specializing in:
 ## 🌟 About Me
 - 🌐 Check out my personal website: [claudiu.io](https://claudiu.io)
 - 🔎 **Actively looking for opportunities** to work on exciting full-stack or backend projects.
-- 🌱 Currently improving my skills in **system design** and exploring **Edge Computing** technologies.
+- 🌱 Currently improving my skills in **system design** and exploring **Self-hosted** technologies.
 
 ---
 
