@@ -33,7 +33,6 @@ I work with the following stack:
 ---
 
 ## 📫 Let's Connect
-[![Portfolio](https://img.shields.io/badge/-Portfolio-%230077B5?style=for-the-badge&logo=web&logoColor=white&color=111111&labelColor=blue)](https://claudiu.io)
 [![Email](https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@claudiu.io)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/claudiu-io)
 
