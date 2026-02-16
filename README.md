@@ -35,7 +35,3 @@ I work with the following stack:
 ## 📫 Let's Connect
 [![Email](https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@claudiu.io)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/claudiu-io)
-
----
-
-⭐️ If you enjoyed visiting, or you have opportunities for collaboration, feel free to contact me or star my repositories!
